@@ -1,10 +1,10 @@
 {
   "main":{
-      "last":0,
-      "suport":[0,1,2,3,4,5]
+      "version":0,
+      "work_version":[0,1,2,3,4,5]
       },
   "pack":{
-      "last":0,
-      "suport":[0,1,2,3,4,5]
+      "version":0,
+      "work_version":[0,1,2,3,4,5]
       }
 }
