@@ -1,10 +1,12 @@
 {
   "main":{
       "version":0,
-      "work_version":[0,1,2,3,4,5]
+      "work_version":[0,1,2,3,4,5],
+      "note":"Cập nhập để nâng cao trải nghiệm"
       },
   "pack":{
       "version":1,
-      "work_version":[0,1,2,3,4,5]
+      "work_version":[0,1,2,3,4,5],
+      "note":"Cập nhập để nâng cao trải nghiệm"
       }
 }
